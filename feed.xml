@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lazuli‘s blog</title>
-    <link href="https://lynnarendelle.github.io/lazuli.github.io/feed.xml" rel="self" />
-    <link href="https://lynnarendelle.github.io/lazuli.github.io" />
+    <link href="https://lazuli.github.io/feed.xml" rel="self" />
+    <link href="https://lazuli.github.io" />
     <updated>2025-01-14T01:39:26+08:00</updated>
     <author>
         <name>Lazuli</name>
     </author>
-    <id>https://lynnarendelle.github.io/lazuli.github.io</id>
+    <id>https://lazuli.github.io</id>
 
     <entry>
         <title>使用everything建立离线硬盘文件列表</title>
         <author>
             <name>Lazuli</name>
         </author>
-        <link href="https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html"/>
-        <id>https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html</id>
+        <link href="https://lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html"/>
+        <id>https://lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html</id>
 
         <updated>2025-01-14T01:39:26+08:00</updated>
             <summary>
