@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Lazuli‘s blog</title>
+    <link href="https://Lazuli.github.io/feed.xml" rel="self" />
+    <link href="https://Lazuli.github.io" />
+    <updated>2025-01-14T01:39:26+08:00</updated>
+    <author>
+        <name>Lazuli</name>
+    </author>
+    <id>https://Lazuli.github.io</id>
+
+    <entry>
+        <title>使用everything建立离线硬盘文件列表</title>
+        <author>
+            <name>Lazuli</name>
+        </author>
+        <link href="https://Lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html"/>
+        <id>https://Lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html</id>
+
+        <updated>2025-01-14T01:39:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    创建的文件列表 打开everything软件，选择左上角的 "文件" 选项，随后在下拉列表选择 "打开文件列表" 打开Everything软件后选择顶部功能栏的 "工具" 选项，随后选择下拉栏的 "文件列表编辑器" 在顶部功能栏选择 "编辑" ,随后选择 "添加目录" 选择你需要建立文件列表的分区 打开everything软件，选择左上角的 "文件" 选项，随后在下拉列表选择 "打开文件列表"
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>创建的文件列表</h2>
+<p>打开everything软件，选择左上角的 "文件" 选项，随后在下拉列表选择 "打开文件列表"</p>
+<p>打开Everything软件后选择顶部功能栏的  "工具"  选项，随后选择下拉栏的  "文件列表编辑器"   </p>
+<p>在顶部功能栏选择  "编辑" ,随后选择 "添加目录" </p>
+<p>选择你需要建立文件列表的分区</p>
+<h2>如何打开创建的文件列表</h2>
+<p>打开everything软件，选择左上角的 "文件" 选项，随后在下拉列表选择 "打开文件列表"</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
