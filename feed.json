@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Lazuli‘s blog",
     "description": "",
-    "home_page_url": "https://Lazuli.github.io",
-    "feed_url": "https://Lazuli.github.io/feed.json",
+    "home_page_url": "https://lynnarendelle.github.io/lazuli.github.io",
+    "feed_url": "https://lynnarendelle.github.io/lazuli.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Lazuli"
     },
     "items": [
         {
-            "id": "https://Lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
-            "url": "https://Lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
+            "id": "https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
+            "url": "https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
             "title": "使用everything建立离线硬盘文件列表",
             "summary": "创建的文件列表 打开everything软件，选择左上角的 \"文件\" 选项，随后在下拉列表选择 \"打开文件列表\" 打开Everything软件后选择顶部功能栏的 \"工具\" 选项，随后选择下拉栏的 \"文件列表编辑器\" 在顶部功能栏选择 \"编辑\" ,随后选择 \"添加目录\" 选择你需要建立文件列表的分区 打开everything软件，选择左上角的 \"文件\" 选项，随后在下拉列表选择 \"打开文件列表\"",
             "content_html": "<h2>创建的文件列表</h2>\n<p>打开everything软件，选择左上角的 \"文件\" 选项，随后在下拉列表选择 \"打开文件列表\"</p>\n<p>打开Everything软件后选择顶部功能栏的  \"工具\"  选项，随后选择下拉栏的  \"文件列表编辑器\"   </p>\n<p>在顶部功能栏选择  \"编辑\" ,随后选择 \"添加目录\" </p>\n<p>选择你需要建立文件列表的分区</p>\n<h2>如何打开创建的文件列表</h2>\n<p>打开everything软件，选择左上角的 \"文件\" 选项，随后在下拉列表选择 \"打开文件列表\"</p>",

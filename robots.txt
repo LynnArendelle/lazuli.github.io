@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://Lazuli.github.io/sitemap.xml
+Sitemap: https://lynnarendelle.github.io/lazuli.github.io/sitemap.xml
