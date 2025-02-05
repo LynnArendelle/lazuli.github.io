@@ -10,6 +10,61 @@
     },
     "items": [
         {
+            "id": "https://lynnarendelle.github.io/lazuli.github.io/ju-yu-wang-wen-jian-gong-xiang.html",
+            "url": "https://lynnarendelle.github.io/lazuli.github.io/ju-yu-wang-wen-jian-gong-xiang.html",
+            "title": "局域网文件共享",
+            "summary": "参考视频：1 关键词：SMB 开启网络共享 按如图设置 进入控制面板-程序-程序和功能-启用或关闭Windows功能，开启SMB",
+            "content_html": "<p>参考视频：<a href=\"https://www.bilibili.com/video/BV1W5411S7Ft/?spm_id_from=333.337.search-card.all.click&amp;vd_source=0e610ff71f0c51ef4671fd872b6db9b9\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://www.bilibili.com/video/BV1W5411S7Ft/?spm_id_from=333.337.search-card.all.click&amp;vd_source=0e610ff71f0c51ef4671fd872b6db9b9\" target=\"_blank\" rel=\"noopener noreferrer\">1</a></p>\n<p>关键词：SMB</p>\n<ol>\n<li>开启网络共享<br>按如图设置<br><br><figure class=\"post__image\"><img  src=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/2025-02-05_173644-2.png\" alt=\"\" width=\"1544\" height=\"1143\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-xs.png 640w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-sm.png 768w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-md.png 1024w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-lg.png 1366w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-xl.png 1600w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173644-2-2xl.png 1920w\"></figure><br>进入控制面板-程序-程序和功能-启用或关闭Windows功能，开启SMB<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/2025-02-05_173931.png\" alt=\"\" width=\"406\" height=\"107\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-xs.png 640w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-sm.png 768w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-md.png 1024w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-lg.png 1366w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-xl.png 1600w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/5/responsive/2025-02-05_173931-2xl.png 1920w\"></figure></li>\n<li> </li>\n</ol>",
+            "author": {
+                "name": "Lazuli"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-05T17:39:57+08:00",
+            "date_modified": "2025-02-05T17:39:57+08:00"
+        },
+        {
+            "id": "https://lynnarendelle.github.io/lazuli.github.io/windowsruan-jian-tui-jian.html",
+            "url": "https://lynnarendelle.github.io/lazuli.github.io/windowsruan-jian-tui-jian.html",
+            "title": "Windows软件推荐",
+            "summary": "utools 一个集成工具箱 Everything 文件搜索。伟大无需多言 localsend 一个局域网文件传输软件 Bandzip破解版 将注册机放在安装路径下用管理员身份运行，复制文件名，然后注册。邮箱填1@qq.com，注册码为复制的文件名 faststone capture 截图软件",
+            "content_html": "<ul>\n<li>utools<br>一个集成工具箱</li>\n<li>Everything<br>文件搜索。伟大无需多言</li>\n<li>localsend<br>一个局域网文件传输软件</li>\n<li>Bandzip破解版<br>将注册机放在安装路径下用管理员身份运行，复制文件名，然后注册。邮箱填1@qq.com，注册码为复制的文件名</li>\n<li>faststone capture<br>截图软件</li>\n</ul>",
+            "author": {
+                "name": "Lazuli"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-31T21:06:35+08:00",
+            "date_modified": "2025-01-31T21:06:35+08:00"
+        },
+        {
+            "id": "https://lynnarendelle.github.io/lazuli.github.io/she-bei-guan-li-qi-wu-fa-cha-kan-gpushi-yong-qing-kuang.html",
+            "url": "https://lynnarendelle.github.io/lazuli.github.io/she-bei-guan-li-qi-wu-fa-cha-kan-gpushi-yong-qing-kuang.html",
+            "title": "设备管理器无法查看GPU使用情况",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/2025-01-30_155357.png\" alt=\"\" width=\"1317\" height=\"473\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-xs.png 640w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-sm.png 768w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-md.png 1024w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-lg.png 1366w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-xl.png 1600w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/3/responsive/2025-01-30_155357-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Lazuli"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-30T22:37:06+08:00",
+            "date_modified": "2025-01-30T22:37:06+08:00"
+        },
+        {
+            "id": "https://lynnarendelle.github.io/lazuli.github.io/xiao-mi-shou-ji-jian-ce-dian-chi-rong-liang.html",
+            "url": "https://lynnarendelle.github.io/lazuli.github.io/xiao-mi-shou-ji-jian-ce-dian-chi-rong-liang.html",
+            "title": "小米手机检测电池容量",
+            "summary": "使用系统版本为澎湃OS1 1.生成日志文件 进入设置-我的设备-全部参数与信息，连续点击”处理器“即可开始生成日志文件。 2.读取文件 日志生成完毕后，在设备/MIUI/DEBUG_LOG 文件夹中找到 bugreport-日期.zip 压缩包，解压，解压后找到bugreport-型号-日期.zip压缩包解压，找到以bugreport开头的txt文件，打开，搜索“battery capacity”，显示的 Estimated battery capacity即为实际电池容量 3.电量校正",
+            "content_html": "<p>使用系统版本为澎湃OS1</p>\n<p>1.生成日志文件</p>\n<p>进入设置-我的设备-全部参数与信息，连续点击”处理器“即可开始生成日志文件。</p>\n<p>2.读取文件</p>\n<p>日志生成完毕后，在设备/MIUI/DEBUG_LOG 文件夹中找到 bugreport-日期.zip 压缩包，解压，解压后找到bugreport-型号-日期.zip压缩包解压，找到以bugreport开头的txt文件，打开，搜索“battery capacity”，显示的 Estimated battery capacity即为实际电池容量</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/2025-01-30_215514.png\" alt=\"\" width=\"583\" height=\"157\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-xs.png 640w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-sm.png 768w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-md.png 1024w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-lg.png 1366w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-xl.png 1600w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/2/responsive/2025-01-30_215514-2xl.png 1920w\"></figure>\n<p>3.电量校正</p>\n<p> </p>",
+            "author": {
+                "name": "Lazuli"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-30T21:48:35+08:00",
+            "date_modified": "2025-01-30T22:25:26+08:00"
+        },
+        {
             "id": "https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
             "url": "https://lynnarendelle.github.io/lazuli.github.io/shi-yong-everythingjian-li-chi-xian-ying-pan-wen-jian-lie-biao.html",
             "title": "使用everything建立离线硬盘文件列表",
