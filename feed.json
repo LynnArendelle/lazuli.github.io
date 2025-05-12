@@ -13,13 +13,15 @@
             "id": "https://lynnarendelle.github.io/lazuli.github.io/jcg-q20lu-you-qi-shua-ji.html",
             "url": "https://lynnarendelle.github.io/lazuli.github.io/jcg-q20lu-you-qi-shua-ji.html",
             "title": "JCG-Q20路由器刷机",
+            "summary": "之前已经刷入了Padavan系统，现在需要先通过SSH和Winscp刷入PandoraBox，也就是pb-boot系统，再刷入immortalwrt。两个文件映像名分别为pb-boot.img和immortalwrt-ramips-mt7621-jcg_q20-squashfs-factory.bin 参考资料：恩山无线论坛， Q群文档-路由器指南",
+            "content_html": "<p> </p>\n<p>之前已经刷入了Padavan系统，现在需要先通过SSH和Winscp刷入PandoraBox，也就是pb-boot系统，再刷入immortalwrt。两个文件映像名分别为<em><span style=\"color: #3598db;\">pb-boot.img</span>和</em><span style=\"color: #3598db;\"><em>immortalwrt-ramips-mt7621-jcg_q20-squashfs-factory.bin</em></span></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/2025-05-12_124852.png\" alt=\"\" width=\"929\" height=\"600\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-xs.png 640w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-sm.png 768w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-md.png 1024w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-lg.png 1366w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-xl.png 1600w ,https://lynnarendelle.github.io/lazuli.github.io/media/posts/6/responsive/2025-05-12_124852-2xl.png 1920w\"></figure>\n<ul>\n<li class=\"align-left\">参考资料：恩山无线论坛， Q群文档-路由器指南</li>\n</ul>",
             "author": {
                 "name": "Lazuli"
             },
             "tags": [
             ],
             "date_published": "2025-05-12T12:08:41+08:00",
-            "date_modified": "2025-05-12T12:08:41+08:00"
+            "date_modified": "2025-05-12T12:52:45+08:00"
         },
         {
             "id": "https://lynnarendelle.github.io/lazuli.github.io/ju-yu-wang-wen-jian-gong-xiang.html",
